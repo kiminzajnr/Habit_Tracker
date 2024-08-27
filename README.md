@@ -11,6 +11,7 @@ A habit tracker application built using Python Flask and MongoDB. The applicatio
 ## Technologies Used
 
 - **Frontend:** HTML, CSS
+- **Templating Engine:** Jinja2
 - **Backend:** Python Flask
 - **Database:** MongoDB
 
