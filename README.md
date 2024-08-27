@@ -50,3 +50,5 @@ A habit tracker application built using Python Flask and MongoDB. The applicatio
 6. **Run the application:**
     ```
     flask run
+
+The application will be available at http://127.0.0.1:5000/.
